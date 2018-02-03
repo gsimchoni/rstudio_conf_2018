@@ -6,8 +6,8 @@ autosize: true
 
 rstudio::conf 2018
 
-This RPres/html is available at Github:
-https://github.com/gsimchoni/rstudio_conf_2018
+This RPres/html is available at Github or at:
+http://bit.ly/rconf2018
 
 Bored
 ========================================================
@@ -49,6 +49,8 @@ I've stopped being ashamed for not being into...
 - Bayesian Generalized Linear Mixed Effects Modeling of Tuberculosis
 - Sparse Cannonical Correlation Analysis for High Throughput Textual Data from Reuters
 
+<div class="footer">bit.ly/rconf2018</div>
+
 I'm more interested in...
 ========================================================
 
@@ -60,6 +62,8 @@ I'm more interested in...
 - Recurrent Neural Networks for Rap Lyrics Production
 - Estimating the Winner in a 1976 Nadia Comaneci vs. 2016 Simone Biles battle
 - Beyonce
+
+<div class="footer">bit.ly/rconf2018</div>
 
 Word
 ========================================================
@@ -82,12 +86,16 @@ So I had been blogging...
 
 <small>[Anne Frank's Diary: A Sentiment Analysis](http://giorasimchoni.com/2017/04/25/2017-04-25-anne-frank-s-diary-a-sentiment-analysis/)</small>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 And blogging...
 ========================================================
 
 ![](images/rpdr.png)
 
 <small>[You Better (Net)Work!](http://giorasimchoni.com/2017/04/27/2017-04-27-you-better-net-work-netweork-analysis-of-rupaul-s-drag-race-contestants/)</small>
+
+<div class="footer">bit.ly/rconf2018</div>
 
 And blogging...
 ========================================================
@@ -96,12 +104,16 @@ And blogging...
 
 <small>[Ave Mariah](http://giorasimchoni.com/2017/12/10/2017-12-10-ave-mariah/)</small>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 And blogging...
 ========================================================
 
 ![](images/text_portrait.png)
 
 <small>[Read My Face (Drawing Portraits with Text)](http://giorasimchoni.com/2017/07/09/2017-07-09-read-my-face/)</small>
+
+<div class="footer">bit.ly/rconf2018</div>
 
 Yu's Tweet
 ========================================================
@@ -121,6 +133,8 @@ I don't do packages
 - CRAN would hate me (a.k.a CRANophobia)
 <center>![](images/expensive.gif)</center>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 Then came YRBSS
 ========================================================
 title: FALSE
@@ -136,6 +150,8 @@ The American CDC Youth Risk Behavior Surveillance System (YRBSS)
 - Asked in huge surveys conducted at the national and state level, every 2 years, from 1991 to 2015.
 - "During the past 30 days, how many times did you use any form of cocaine, including powder, crack, or freebase?"
 
+<div class="footer">bit.ly/rconf2018</div>
+
 YRBSS (II)
 ========================================================
 
@@ -144,6 +160,8 @@ But:
 - The barcharts are ugly
 - Can only download the ("Combined") data as a "ASCII" raw .dat file or as a MS Access (?!) file
 - The raw "ASCII" data file, however, has no column labels, and to get those you need to run a script you can download either in SAS or SPSS
+
+<div class="footer">bit.ly/rconf2018</div>
 
 YRBSS (III)
 ========================================================
@@ -179,6 +197,8 @@ My Package Bookmarks (in this order)
 - Hadley Wickham: [R packages](http://r-pkgs.had.co.nz/) | ~A few days
 - Stack Overflow: [Stack Overflow](https://stackoverflow.com/) | ~Lifetime
 
+<div class="footer">bit.ly/rconf2018</div>
+
 Twenty Minutes
 ========================================================
 title: FALSE
@@ -204,6 +224,8 @@ library(yrbss)
 getProportionSingleVariable(.variable = "qn63", .location = "US", .year = 2015)
 ```
 </small>
+
+<div class="footer">bit.ly/rconf2018</div>
 
 The yrbss Package
 ========================================================
@@ -236,6 +258,8 @@ The yrbss Package
 
 ![](images/yrbss-1.png)
 
+<div class="footer">bit.ly/rconf2018</div>
+
 No Stopping
 ========================================================
 title: FALSE
@@ -253,6 +277,8 @@ kandinsky(iris)
 ```
 </center>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 The mocap Package
 ========================================================
 <center>
@@ -267,6 +293,8 @@ makeMotionMovie(asf, amc, xyz, skipNFrames = 4)
 ![](images/lambada.gif)
 </center>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 The CastleOfR Package
 ========================================================
 <center>
@@ -278,6 +306,8 @@ startGame()
 
 ![](images/CastleOfR_startGame.png)
 </center>
+
+<div class="footer">bit.ly/rconf2018</div>
 
 The songsim Package
 ========================================================
@@ -292,6 +322,8 @@ songsim(path, colorfulMode = TRUE,
 ```
 </center>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 The ssdkeras Package
 ========================================================
 <center>
@@ -304,6 +336,8 @@ library(ssdkeras)
 ![](images/naomi.png)
 </center>
 
+<div class="footer">bit.ly/rconf2018</div>
+
 The ebayr Package
 ========================================================
 <center>
@@ -315,6 +349,8 @@ search_ebay("elvis costume")
 ```
 ![](images/ebayr.png)
 </center>
+
+<div class="footer">bit.ly/rconf2018</div>
 
 The ggwithimages Package
 ========================================================
@@ -339,15 +375,21 @@ ggplot(kathmandu_hourly_aqi, aes(hour, aqi)) +
         axis.title.y = element_text(size=12))
 ```
 
+<div class="footer">bit.ly/rconf2018</div>
+
 The ggwithimages Package
 ========================================================
 
 ![](images/annapurna.png)
 
+<div class="footer">bit.ly/rconf2018</div>
+
 More like 10 packages in 6 months...
 ========================================================
 
 ![](images/hexagons.png)
+
+<div class="footer">bit.ly/rconf2018</div>
 
 What's in it for me
 ========================================================
@@ -358,15 +400,18 @@ type: black_center
 
 "My world has changed, and so have I."
 ========================================================
+<div class="footer">bit.ly/rconf2018</div>
 
 - Portfolio
 - Exercise & Learning
 - Fun
 - Fame
-- People using your code, appreciating it, improving it (PR)
+- People using your code, appreciating it or improving it (PR)
 - Sense of community
 - Job offers & Other opportunities
 - Even improved my own job
+
+***
 
 <center>![](images/pocahontas.gif)</center>
 
@@ -375,8 +420,11 @@ type: black_center
 
 ![](images/songsim_request.png)
 
+<div class="footer">bit.ly/rconf2018</div>
+
 Your R Country Needs You!
 ========================================================
+<div class="footer">bit.ly/rconf2018</div>
 
 ![](images/needs_you.jpg)
 

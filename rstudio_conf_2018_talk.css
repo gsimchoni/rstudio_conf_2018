@@ -19,8 +19,9 @@
   color: white;
 }
 
-.midcenter {
-    position: fixed;
-    top: 50%;
-    left: 50%;
+.footer {
+    color: blue;
+    position: fixed; top: 110%;
+    text-align:right; width:100%;
+    font-size:80%;
 }
