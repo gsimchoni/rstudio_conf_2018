@@ -41,7 +41,7 @@ I've stopped being ashamed for not being into...
 ========================================================
 
 - Air Quality
-- Stock Market
+- Stock Market Analysis
 - DNA Microarrays
 - Mapping Bicycle Routes
 - Asteroid Density Estimation
@@ -52,11 +52,11 @@ I'm more interested in...
 ========================================================
 
 - Beyonce
-- Ballet Dancing
+- Ballet Dancing Statistics
 - Predicting America's Next Top Model Winner
 - Survivor Cast Survival Analysis
 - Disproving Astrological Theories
-- Style Transferring Picasso to Pornographic Images
+- Recurrent Neural Networks for Rap Lyrics Production
 - Estimating the Winner in a 1976 Nadia Comaneci vs. 2016 Simone Biles battle
 - Beyonce
 
@@ -117,7 +117,7 @@ I don't do packages
 - My code isn't at a level where it can be packaged and distributed
 - I'm more of a one-time script kinda girl, moment to moment...
 - I hate writing documentation and tests
-- CRAN would hate me
+- CRAN would hate me (a.k.a CRANophobia)
 <center>![](images/expensive.gif)</center>
 
 Then came YRBSS
